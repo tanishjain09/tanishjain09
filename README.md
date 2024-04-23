@@ -6,8 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/tanish09?theme=dark&font=Kosugi&ext=heatmap)
 
-![](https://leetcard.tanish09.cool/tanish09?cache=0)
+
 <!---
 tanishjain09/tanishjain09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
