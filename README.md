@@ -3,7 +3,7 @@
 
 
 # LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/tanish09?theme=dark&font=Kosugi&ext=heatmap)
+![](https://leetcard.jacoblin.cool/tanishSethiya?ext=heatmap)
 
 
 <!---
